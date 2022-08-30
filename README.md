@@ -1,7 +1,7 @@
 # Weather-Dashboard
 
 __________________________________________________________________________________________________________________________________________________________________
-
+![Ss](https://media-exp1.licdn.com/dms/image/C4E2DAQF0n6_VW9EY7Q/profile-treasury-image-shrink_160_160/0/1661843017218?e=1662451200&v=beta&t=XPx6Lbnn43woAq2l-DXTupFQNHqFRvZBoCARP0QZ1-E)
 
 ## User Story
 AS A traveler
