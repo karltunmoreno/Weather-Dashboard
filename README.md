@@ -1,7 +1,7 @@
 # Weather-Dashboard
 
 __________________________________________________________________________________________________________________________________________________________________
-![Ss](https://media-exp1.licdn.com/dms/image/C4E2DAQF0n6_VW9EY7Q/profile-treasury-image-shrink_800_800/0/1661843017218?e=1662451200&v=beta&t=WuuvyA5MowQS4JSwrhc28cBeOtz-aiNakyl1HH1v2Co)
+![Ss](https://karltunmoreno.github.io/My-Portfolio/assets/images/weatherapppic.jpg)
 
 ## User Story
 AS A traveler
